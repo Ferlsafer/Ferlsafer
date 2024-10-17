@@ -4,6 +4,7 @@
 💞️ I’m looking to collaborate on **open-source projects, particularly those that involve Python, Django, and web development**.  
 📫 How to reach me: **[dicksonfredy1@gmail.com](mailto:dicksonfredy1@gmail.com)**  
 😄 Pronouns: **He**  
+[![An image of @ferlsafer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ferlsafer)](https://holopin.io/@ferlsafer)
 ⚡ Fun fact: **I’m an avid problem solver and love exploring innovative tech solutions.**
 <!---
 Ferlsafer/Ferlsafer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
